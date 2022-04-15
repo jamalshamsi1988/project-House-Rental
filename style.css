@@ -19,7 +19,15 @@ nav{
     justify-content: space-between;
     padding: 20px 7%;
 }
-
+#icon{
+    width: 30px;
+    cursor: pointer;
+    flex: 1;
+    text-align: right;
+}
+nav ul {
+    
+}
 .logo{
 width: 140px;
 cursor: pointer;
